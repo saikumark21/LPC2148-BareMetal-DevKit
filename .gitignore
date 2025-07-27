@@ -1,0 +1,8 @@
+# Ignore build files
+/build/
+*.elf
+*.hex
+*.o
+
+# VS Code settings
+.vscode/
