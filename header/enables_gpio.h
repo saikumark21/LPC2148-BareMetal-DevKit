@@ -15,7 +15,11 @@
 
 // PROG3: C program to serialise out alphabetical character, either LSB or MSB first, with bit rate
 
-#define PROG3
+//#define PROG3
+
+//PROG4: C program to reflect the status of the Input pin to the corresponding Outpin Pin
+
+#define PROG4
 
 //---------------------------------------------------------------------
 #endif //ENABLES_H
