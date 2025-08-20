@@ -23,6 +23,17 @@
 #define IO1DIR     (*(volatile unsigned long *)0xE0028018)
 #define IO1CLR     (*(volatile unsigned long *)0xE002801C)
 
+#define IOPIN0      IO0PIN     
+#define IOSET0      IO0SET     
+#define IODIR0      IO0DIR     
+#define IOCLR0      IO0CLR     
+
+#define IOPIN1      IO1PIN     
+#define IOSET1      IO1SET     
+#define IODIR1      IO1DIR     
+#define IOCLR1      IO1CLR     
+
+
 // ------------------------
 // Fast GPIO (FIO Registers)
 // ------------------------
